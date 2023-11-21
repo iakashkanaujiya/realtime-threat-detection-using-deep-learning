@@ -1,0 +1,18 @@
+#venv
+.venv
+venv
+
+#database dir
+database
+db
+
+#dataset
+dataset
+datasets
+
+# any .csv file
+*.csv
+
+#cache file
+__pycache__
+__MACOSX

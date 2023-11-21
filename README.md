@@ -1,6 +1,12 @@
 # Real Time Threat Detection using Deep Learning
 
-Real Time Threat Detection using Deep Learning, Apache Kafka, and Vector Embedding
+Real-Time Threat Detection using Deep Learning, Apache Kafka, and Vector Embedding
+
+## Demo Video
+
+https://github.com/iakashkanaujiya/realtime-thread-detection-using-deep-learning/assets/64922766/af7234ae-e6b0-4336-bb89-d31653518571
+
+
 
 ## Getting Started
 
